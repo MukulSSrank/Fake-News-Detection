@@ -1,6 +1,6 @@
 # 📰 Fake News Detection using NLP & Machine Learning
 
-![Fake News Detection Banner](FakeNews_Banner.png)
+![Fake News Detection Banner](FakeNews_Banner.jpeg)
 
 ## 📋 Problem Statement
 In today’s digital world, we consume news from multiple sources every day — social media, online portals, and newspapers.  
