@@ -71,5 +71,5 @@ This project aims to build a **machine learning model** that can predict whether
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/Fake-News-Detection-NLP.git
+   git clone https://github.com/MukulSSrank/Fake-News-Detection-NLP.git
    cd Fake-News-Detection-NLP
